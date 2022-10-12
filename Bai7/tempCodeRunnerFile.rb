@@ -1,0 +1,2 @@
+
+    puts "Nhập lương thưởng:"
